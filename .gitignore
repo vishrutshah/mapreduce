@@ -1,7 +1,3 @@
-/WordCount/bin
+bin
 *.class
-/WordCount/.settings
-
-/WordCountVeriations/bin
-*.class
-/WordCountVeriations/.settings
+.settings
